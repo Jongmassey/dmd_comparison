@@ -3,3 +3,5 @@ dmd/*
 !dmd/.gitkeep
 zipfiles/*
 !zipfiles/.gitkeep
+changes/*
+!changes/.gitkeep
