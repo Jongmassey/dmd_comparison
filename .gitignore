@@ -1,1 +1,5 @@
 .venv
+dmd/*
+!dmd/.gitkeep
+zipfiles/*
+!zipfiles/.gitkeep
